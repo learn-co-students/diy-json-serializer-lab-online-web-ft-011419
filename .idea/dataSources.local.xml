@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="dataSourceStorageLocal">
+    <data-source name="Rails diy-json-serializer-lab-online-web-ft-011419: development" uuid="a62acdb2-e40b-49f8-9976-5a5cb4f18cb3">
+      <database-info product="" version="" jdbc-version="" driver-name="" driver-version="" dbms="SQLITE" exact-version="0" />
+      <auth-required>false</auth-required>
+    </data-source>
+    <data-source name="Rails diy-json-serializer-lab-online-web-ft-011419: test" uuid="8dfbc2c2-56de-404d-ae2b-ef6ea36519b9">
+      <database-info product="" version="" jdbc-version="" driver-name="" driver-version="" dbms="SQLITE" exact-version="0" />
+      <auth-required>false</auth-required>
+    </data-source>
+  </component>
+</project>
